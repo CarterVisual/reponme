@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Web Page</title>
+    <style>
+        .horizontal-line {
+            width: 75%;
+            height: 6px;
+            background-color: #830bf3;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body style="background-color: yellow;">
+    <!-- this page is created by Jerred Carter on 9/29/24 -->
+
+    <h1 id="my-homepage" style="text-align: center; color: blue;">Jerred Carter</h1>
+    
+    <div style="text-align: center;">
+        <img src="Screenshot 2024-09-03 153300.png" alt="Purple Flower" width="300" height="200">
+    </div>
+    
+    <div class="horizontal-line"></div>
+    
+    <h2>Welcome to <span style="color: red;">My Home Page</span></h2>
+    
+    <p>
+        Hello, my name is Jerred Carter, and I am passionate about Art and Technology. 
+        I like to implement technology into a creative process which allows me to express how I perceive art and the world through my eyes. Learning how to <strong>program</strong> is not just an opening to a career for me; 
+        it’s a way to <strong>express</strong> my creativity and try to further push the limits of media boundaries.
+    </p>
+    
+    <blockquote>
+        I come from a small town between Lumberton and Fayetteville called St.Pauls. 
+        It doesnt have a lot of things going for it but like everything in life its constantly growing and changing and I just hope its for the better. The town quote is "A small town with a big heart". Thinking of this makes me feel like I'm back home.
+    </blockquote>
+    
+    <ol>
+        <li>Drawing</li>
+        <li>Painting</li>
+        <li>Coding</li>
+        <li>Cooking</li>
+        <li>Learning</li>
+    </ol>
+    
+    <a href="#my-homepage">Go to Top</a><br>
+    <a href="mailto:your-email@example.com">Email Me</a><br>
+    <br>
+    <a href="HW1solution2.html">more about me</a>
+    
+    <footer>
+        <p>&copy; 2024 Jerred Carter. All rights reserved.</p>
+    </footer>
+</body>
+</html>
